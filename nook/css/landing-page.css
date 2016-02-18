@@ -102,7 +102,7 @@ h6 {
     }
 
     .inside-message {
-        padding-bottom: 15%;
+        padding-bottom: 0;
     }
 
     .inside-message > h1 {
